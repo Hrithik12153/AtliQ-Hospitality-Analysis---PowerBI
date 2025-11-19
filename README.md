@@ -34,18 +34,22 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
 </p>
 
+## Home Page View
+
+<p align="center">
+    ![Image alt]()
+</p>
 
 ## Overall Analysis View
 
 <p align="center">
-    
+    ![Image alt]()
 </p>
 
 ## Monthly Analysis View
 
-<p align="center">!
-
-   
+<p align="center">
+    ![Image alt]()
 </p>
 
 ## Learnt things from this Project 
