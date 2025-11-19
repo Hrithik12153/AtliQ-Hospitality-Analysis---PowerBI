@@ -37,19 +37,19 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Home Page View
 
 <p align="center">
-    ![Image alt]()
+    ![Image alt](https://github.com/Hrithik12153/AtliQ-Hospitality-Analysis---PowerBI/blob/5efb20e0348a646b587499c8ca7229eda770122d/resources/Home_page.JPG)
 </p>
 
 ## Overall Analysis View
 
 <p align="center">
-    ![Image alt]()
+    ![Image alt](https://github.com/Hrithik12153/AtliQ-Hospitality-Analysis---PowerBI/blob/5efb20e0348a646b587499c8ca7229eda770122d/resources/Overall.JPG)
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    ![Image alt]()
+    ![Image alt](https://github.com/Hrithik12153/AtliQ-Hospitality-Analysis---PowerBI/blob/5efb20e0348a646b587499c8ca7229eda770122d/resources/Monthly_view.JPG)
 </p>
 
 ## Learnt things from this Project 
